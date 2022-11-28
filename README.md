@@ -1,7 +1,7 @@
 # Development
 
 ### Link to Deployed Website
-If you used the stencil code, this is `https://hungryshark13.github.io/cs1300-development`
+`https://hungryshark13.github.io/cs1300-development`
 
 ### Goal and Value of the Application
 The goal is to display the Qatar World Cup 2022 group stage matches to a user. The value it provides is being able to filter by matches and find the ones that the user is looking for.
