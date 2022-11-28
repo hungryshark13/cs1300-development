@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cs1300-development/static/css/main.073c9b0a.css",
-    "main.js": "/cs1300-development/static/js/main.28a46d68.js",
-    "static/media/logo.svg": "/cs1300-development/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/cs1300-development/static/css/main.9210762c.css",
+    "main.js": "/cs1300-development/static/js/main.e899ac09.js",
+    "static/media/qatar-logo.png": "/cs1300-development/static/media/qatar-logo.21aac1603873337d70f5.png",
     "index.html": "/cs1300-development/index.html",
-    "main.073c9b0a.css.map": "/cs1300-development/static/css/main.073c9b0a.css.map",
-    "main.28a46d68.js.map": "/cs1300-development/static/js/main.28a46d68.js.map"
+    "main.9210762c.css.map": "/cs1300-development/static/css/main.9210762c.css.map",
+    "main.e899ac09.js.map": "/cs1300-development/static/js/main.e899ac09.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.28a46d68.js"
+    "static/css/main.9210762c.css",
+    "static/js/main.e899ac09.js"
   ]
 }
