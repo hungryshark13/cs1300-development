@@ -182,7 +182,7 @@ function App() {
 
   const filterStadiumEducation = (array) => {
     if (education) {
-      return array.filter(item => item.Location === "Lusail Stadium");
+      return array.filter(item => item.Location === "Education City Stadium");
     } else {
       return array;
     }
